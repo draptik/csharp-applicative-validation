@@ -10,6 +10,12 @@ handling errors.
 
 This project compares 2 c# libs:
 
-- LaYumba
-- LanguageExt
+- [`LaYumba` Library developed for the book "Functional Programming with C#")](https://github.com/la-yumba/functional-csharp-code)
+- [`LanguageExt` LanguageExt: most popular functional library for C#)](https://github.com/louthy/language-ext)
+
+## Learning LanguageExt
+
+I am still having problems porting the example from `LaYumba` to `LanguageExt`.
+
+Maybe somebody can help me?
 
